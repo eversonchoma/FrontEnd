@@ -1,0 +1,47 @@
+{
+  "areas": [
+    {"key": "Laser", "title": "Laser"},
+    {"key": "Marcenaria", "title": "Marc"},
+    {"key": "UV", "title": "UV"},
+    {"key": "Conferencia", "title": "Conf"}
+  ],
+
+  "orders": [
+    {
+      "id": 1212,
+      "area": ["Laser"] ,
+      "date": "01/06/2021",
+      "status": "PENDENTE"
+    },
+    {
+      "id": 3232,
+      "area": [ "Marcenaria"] ,
+      "date": "15/06/2021",
+      "status": "PENDENTE"
+    },
+    {
+      "id": 5454,
+      "area": ["Marcenaria"] ,
+      "date": "15/06/2021",
+      "status": "PENDENTE"
+    },
+	  {
+      "id": 7474,
+      "area": ["UV"] ,
+      "date": "15/06/2021",
+      "status": "PENDENTE"
+    },
+	  {
+      "id": 9898,
+      "area": ["Laser"] ,
+      "date": "15/06/2021",
+      "status": "PENDENTE"
+    },
+	  {
+      "id": 5151,
+      "area": ["Conf"] ,
+      "date": "15/06/2021",
+      "status": "PENDENTE"
+    }
+  ]
+}
